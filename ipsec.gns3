@@ -22,8 +22,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"46\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">10.1</text></svg>",
-                "x": -518,
-                "y": -38,
+                "x": -272,
+                "y": 69,
                 "z": 2
             },
             {
@@ -31,8 +31,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"46\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">11.1</text></svg>",
-                "x": 307,
-                "y": 171,
+                "x": 448,
+                "y": 328,
                 "z": 2
             },
             {
@@ -40,8 +40,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"46\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">12.1</text></svg>",
-                "x": 289,
-                "y": -29,
+                "x": 212,
+                "y": 228,
                 "z": 2
             },
             {
@@ -49,35 +49,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"46\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">13.1</text></svg>",
-                "x": 280,
-                "y": -227,
-                "z": 2
-            },
-            {
-                "drawing_id": "6e4bad27-8175-4349-ad45-51b8c7a55046",
-                "locked": false,
-                "rotation": 0,
-                "svg": "<svg width=\"93\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#eb4e00\" fill-opacity=\"1.0\">Tunnel 23</text></svg>",
-                "x": 338,
-                "y": -151,
-                "z": 2
-            },
-            {
-                "drawing_id": "5911e745-a216-41a3-85d8-5f648262178f",
-                "locked": false,
-                "rotation": 0,
-                "svg": "<svg width=\"93\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#eb4e00\" fill-opacity=\"1.0\">Tunnel 24</text></svg>",
-                "x": 333,
-                "y": 72,
-                "z": 2
-            },
-            {
-                "drawing_id": "24d29d31-8a87-4d4e-9144-106c60685008",
-                "locked": false,
-                "rotation": 0,
-                "svg": "<svg width=\"93\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#eb4e00\" fill-opacity=\"1.0\">Tunnel 25</text></svg>",
-                "x": 327,
-                "y": 303,
+                "x": 22,
+                "y": 127,
                 "z": 2
             },
             {
@@ -85,8 +58,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"107\" height=\"50\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Loopback 0\n1.1.1.1</text></svg>",
-                "x": -593,
-                "y": 50,
+                "x": -364,
+                "y": 133,
                 "z": 2
             },
             {
@@ -94,8 +67,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"107\" height=\"50\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Loopback 1\n2.2.2.2</text></svg>",
-                "x": 345,
-                "y": -196,
+                "x": 167,
+                "y": 88,
                 "z": 2
             },
             {
@@ -103,8 +76,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"107\" height=\"50\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Loopback 2\n3.3.3.3</text></svg>",
-                "x": 340,
-                "y": 27,
+                "x": 359,
+                "y": 222,
                 "z": 2
             },
             {
@@ -112,8 +85,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"107\" height=\"50\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Loopback 3\n4.4.4.4</text></svg>",
-                "x": 327,
-                "y": 252,
+                "x": 569,
+                "y": 343,
                 "z": 2
             },
             {
@@ -121,8 +94,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"201\" height=\"71\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">Tunnel 23 --&gt; 30.0.0.0\nTunnel 24 --&gt; 40.0.0.0\nTunnel 25 --&gt; 50.0.0.0</text></svg>",
-                "x": -342,
-                "y": 215,
+                "x": -563,
+                "y": -217,
                 "z": 2
             },
             {
@@ -130,35 +103,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"268\" height=\"71\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#eb4e00\" fill-opacity=\"1.0\">Tunnel 23 between HQ and B1\nTunnel 24 between HQ and B2\nTunnel 25 between HQ and B3</text></svg>",
-                "x": -378,
-                "y": 128,
-                "z": 2
-            },
-            {
-                "drawing_id": "9c02d75f-8339-41c2-a45a-6c2e039aa634",
-                "locked": false,
-                "rotation": 0,
-                "svg": "<svg width=\"93\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#eb4e00\" fill-opacity=\"1.0\">Tunnel 23</text></svg>",
-                "x": -468,
-                "y": -127,
-                "z": 2
-            },
-            {
-                "drawing_id": "161e0ed3-25b6-4aa7-9e23-badddd782ed3",
-                "locked": false,
-                "rotation": 0,
-                "svg": "<svg width=\"93\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#eb4e00\" fill-opacity=\"1.0\">Tunnel 24</text></svg>",
-                "x": -469,
-                "y": -102,
-                "z": 2
-            },
-            {
-                "drawing_id": "9948f97b-d29e-483a-9729-865afbf28dbd",
-                "locked": false,
-                "rotation": 0,
-                "svg": "<svg width=\"93\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#eb4e00\" fill-opacity=\"1.0\">Tunnel 25</text></svg>",
-                "x": -469,
-                "y": -76,
+                "x": -599,
+                "y": -304,
                 "z": 2
             },
             {
@@ -166,8 +112,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"310\" height=\"85\"><rect width=\"310\" height=\"85\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": -398,
-                "y": 121,
+                "x": -619,
+                "y": -311,
                 "z": 1
             },
             {
@@ -175,8 +121,89 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg width=\"249\" height=\"69\"><rect width=\"249\" height=\"69\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
-                "x": -368,
-                "y": 216,
+                "x": -589,
+                "y": -216,
+                "z": 1
+            },
+            {
+                "drawing_id": "b53d77dd-28ee-48c6-a576-ee0badcc2f19",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"200\" height=\"0\"><line x1=\"0\" x2=\"200\" y1=\"0\" y2=\"0\" stroke-width=\"2\" stroke=\"#aaaa7f\" /></svg>",
+                "x": -199,
+                "y": 111,
+                "z": 1
+            },
+            {
+                "drawing_id": "efd50ee6-8059-4cf5-a027-1f7b83e17f23",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"200\" height=\"0\"><line x1=\"0\" x2=\"200\" y1=\"0\" y2=\"0\" stroke-width=\"2\" stroke=\"#aaaa7f\" /></svg>",
+                "x": -196,
+                "y": 142,
+                "z": 1
+            },
+            {
+                "drawing_id": "1f622d07-60d5-44eb-803f-e938c8f06c9a",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"173\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#8b8b68\" fill-opacity=\"1.0\">\tTunnel 23</text></svg>",
+                "x": -220,
+                "y": 111,
+                "z": 2
+            },
+            {
+                "drawing_id": "fb6428dc-5d9a-4fba-9ab8-dd90ef84b7b5",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"398\" height=\"0\"><line x1=\"0\" x2=\"398\" y1=\"0\" y2=\"0\" stroke-width=\"2\" stroke=\"#55aa7f\" /></svg>",
+                "x": -241,
+                "y": 240,
+                "z": 1
+            },
+            {
+                "drawing_id": "057e3e9f-5195-4353-8cb8-9697134313f6",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"93\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#55aa7f\" fill-opacity=\"1.0\">Tunnel 24</text></svg>",
+                "x": -87,
+                "y": 243,
+                "z": 2
+            },
+            {
+                "drawing_id": "3e30239c-0654-4727-a124-02d9567f6891",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"398\" height=\"0\"><line x1=\"0\" x2=\"398\" y1=\"0\" y2=\"0\" stroke-width=\"2\" stroke=\"#55aa7f\" /></svg>",
+                "x": -241,
+                "y": 273,
+                "z": 1
+            },
+            {
+                "drawing_id": "c481e452-7279-4fa0-9e31-f0140ac97b1d",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"680\" height=\"1\"><line x1=\"0\" x2=\"680\" y1=\"0\" y2=\"1\" stroke-width=\"2\" stroke=\"#28503b\" /></svg>",
+                "x": -338,
+                "y": 359,
+                "z": 1
+            },
+            {
+                "drawing_id": "6f325d23-35d6-4025-9803-918517befad7",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"93\" height=\"29\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#28503b\" fill-opacity=\"1.0\">Tunnel 25</text></svg>",
+                "x": -71,
+                "y": 362,
+                "z": 2
+            },
+            {
+                "drawing_id": "3525a012-9b75-45e6-b714-97988ef6ff09",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"680\" height=\"1\"><line x1=\"0\" x2=\"680\" y1=\"0\" y2=\"1\" stroke-width=\"2\" stroke=\"#28503b\" /></svg>",
+                "x": -339,
+                "y": 394,
                 "z": 1
             }
         ],
@@ -366,8 +393,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "add86666-d00e-4a6a-96e5-4fe5dcac6cc6",
                 "width": 66,
-                "x": -593,
-                "y": -18,
+                "x": -347,
+                "y": 89,
                 "z": 1
             },
             {
@@ -425,8 +452,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "add86666-d00e-4a6a-96e5-4fe5dcac6cc6",
                 "width": 66,
-                "x": 338,
-                "y": -250,
+                "x": 80,
+                "y": 104,
                 "z": 1
             },
             {
@@ -484,8 +511,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "add86666-d00e-4a6a-96e5-4fe5dcac6cc6",
                 "width": 66,
-                "x": 342,
-                "y": -25,
+                "x": 265,
+                "y": 232,
                 "z": 1
             },
             {
@@ -543,8 +570,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "add86666-d00e-4a6a-96e5-4fe5dcac6cc6",
                 "width": 66,
-                "x": 348,
-                "y": 204,
+                "x": 489,
+                "y": 361,
                 "z": 1
             },
             {
@@ -602,8 +629,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "add86666-d00e-4a6a-96e5-4fe5dcac6cc6",
                 "width": 66,
-                "x": -144,
-                "y": -22,
+                "x": 21,
+                "y": -382,
                 "z": 1
             },
             {
@@ -671,8 +698,8 @@
                 "symbol": ":/symbols/cloud.svg",
                 "template_id": "39e257dc-8412-3174-b6b3-0ee3ed6a43e9",
                 "width": 159,
-                "x": -195,
-                "y": -40,
+                "x": -28,
+                "y": -401,
                 "z": 1
             }
         ]
